@@ -3,7 +3,10 @@
 System kontroli rozmytej: Problem stylu jazdy
 ==========================================
 
-Aby uruchomić program, zainstaluj wymagane pakiety:
+Autorzy:
+Szymon Rosztajn, Mateusz Lech
+
+Aby uruchomić program, nalezy zainstalowac wymagane pakiety:
 pip install scikit-fuzzy
 pip install matplotlib
 pip install numpy
